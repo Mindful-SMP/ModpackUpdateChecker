@@ -1,5 +1,5 @@
 {
-  "7.0.1": {
+  "v7.0.1": {
     "changelog": "[1.20 Update]\r\nFABRIC IS NOW 0.14.21\r\n\r\n["",{"text":"Removed","bold":true,"underlined":true},{"text":"\nTall Flower Pots (Caused serious issues)\nRemove Reloading Screen (Niche mod causes issues)\nBug Fixes\nFixed missing chunks in biomes with cherry trees (Tall Flower Pots)\nFixed GUI starting in dark mode\nFix some binds not being able to be held down. (Controlify)\nFix ClientWorld memory leak in non-terrain light cache (fixes #209) (comp500) (Indium)\nMemory leak fix fix: Split BlockRenderInfo reuse between block and world (Indium)\nFix crash without ModMenu (Puzzle)\n\n"},{"text":"Updated","bold":true,"underlined":true},{"text":"\nUpdated CleanF3 Config\nMusic is now disabled by default\nReplay mod no longer records automatically by default\nIncreased maximum render distance from 32 to 64 with bobby\nMuted some unneeded warnings on logs\nUpdated ShulkerBoxTooltip to use vanilla bundle style\nUpdated options.txt\n\n"},{"text":"Added","bold":true,"underlined":true},{"text":"\nYeetus Experimentus By Sunekaer\nThreadTweak by getchoo (Replaces Smooth Boot)\nSodium Blending Registry by devpelux\nServer Pinger Fixer by JustAlittleWolf\nLeave My Bars Alone by Fuzs"}]"
   }
 }
