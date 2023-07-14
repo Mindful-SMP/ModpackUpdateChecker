@@ -1,8 +1,5 @@
 {
-  "v7.0.1": {
-    "changelog": "[1.20 Update]\r\nFABRIC IS NOW 0.14.21\r\n\r\nMods:\r\n+ Added Mindful Darkness (by Fuzs)\r\n+ Added Modpack Update Checker (by jab125)\r\n+ Pick Up Notifier (by Fuzs)\r\n+ Added Journeymap (by Mysticdrew, Techbrew)\r\n+ MapFrontiers (by MemeSapiens)\r\n+ Main Menu Credits (by isXander)\r\n+ Added Overflowing Bars (by Fuzs)\r\n+\r\n- Many fixes and improved performance \r\n- Updated all mods"
-  },
-  "v7.0.0": {
-    "changelog": ""
+  "7.0.2": {
+    "changelog": "Initial Release"
   }
 }
