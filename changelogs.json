@@ -1,5 +1,5 @@
 {
-  "8.0.0": {
-    "changelog": "Initial Release"
+  "8.1.0": {
+    "changelog": "# Mindful-Optimized-v8.1.0\n\n## Added\n- [Kappa](https://modrinth.com/mod/kappa) by\u00a0[hibi](https://modrinth.com/user/hibi) to replace Capes Mod\n- Added ModernFix - faster launch and world loading, reduced RAM usage\n- Temporarily replaced Bobby with Farsight\n- Cupboard (Needed by Farsight)\n\n## Bug Fixes\n- Fixed crash with some other mods\n- \n## Removed\n- Sodium Temporary Fix (**No Longer Needed**)\n- Sodium Blending Registry (**No Longer Needed**)\n- Temporarily removed Bobby (Needs update)\n\n## Updated\n- Balm\n- Chat Heads\n- CompleteConfig\n- Concurrent Chunk Management Engine\n- Controlify\n- CraftPresence\n- Entity Texture Features\n- Extreme sound muffler\n- Fabric API\n- FabricSkyBoxes Interop\n- ImmediatelyFast\n- Indium\n- Iris\n- Make Bubbles Pop Mod\n- Mindful Darkness\n- Mod Menu\n- Modpack Update Checker\n- More Culling\n- MoreMcmeta\n- Puzzles Lib\n- Raknetify\n- Reese's Sodium Options\n- Simple Voice Chat\n- Sodium\n- Sodium Extra\n- Sodium Shadowy Path Blocks\n- Status\n- Yeetus Experimentus\n- YetAnotherConfigLib\n- Zoomify"
   }
 }
