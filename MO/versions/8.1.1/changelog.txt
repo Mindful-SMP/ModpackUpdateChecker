@@ -1,0 +1,42 @@
+# Mindful-Optimized-v8.1.1
+
+## Added
+- Re-added [Bobby](https://modrinth.com/mod/bobby/version/5.0.1)
+- [Better Advancements](https://modrinth.com/mod/better-advancements)
+  > No more UI for ants
+ - [World Preview](https://modrinth.com/mod/world-preview)
+  > In-game preview for worlds
+ - [GFARB](https://www.curseforge.com/minecraft/mc-mods/game-menu-remove-gfarb)
+  > Removes the "Give Feedback" and "Report Bugs" buttons in the game menu.
+
+## Bug Fixes
+- Fixed crash with Bobby and Sodium 0.5
+- Fixed painting variants only working in the vanilla directory and not the optifine/etf folders
+- Fixed a crash related to pattern string comparison handling changes
+- Fixed irregular lag spikes when GPU is under heavy load
+- Fixed entity shadows. 
+- Fixed search bar focus bug for Sodium 0.5.2/0.5.1.
+- Fixed voice chat not connecting with polymer installed 
+
+## Updated
+- Re-added Bobby
+- Controlify
+- CraftPresence
+- cupboard
+- Entity Texture Features
+- Extreme sound muffler
+- Fabric Language Kotlin
+- ImmediatelyFast
+- Indium
+- Iris
+- MapFrontiers
+- Mindful Darkness
+- ModernFix
+- Puzzles Lib
+- Raknetify
+- Reese's Sodium Options
+- Simple Voice Chat
+- Sodium
+
+## Removed
+- Farsight Mod (Replaved by Bobby)
