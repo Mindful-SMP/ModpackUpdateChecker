@@ -8,7 +8,7 @@ Mods:
 + [Forge Config Screens](https://github.com/Fuzss/forgeconfigscreens) by Fuzs
 
 Updates:
-- [FastQuit](https://modrinth.com/mod/fastquit)
+- {"text":"FastQuit","clickEvent":{"action":"open_url","value":"https://modrinth.com/mod/fastquit"}}
 - [Entity Model Features](https://modrinth.com/mod/entity-model-features)
 - [Mod Menu](https://modrinth.com/mod/modmenu)
 - [Dynamic FPS](https://dapprgames.com/mods/)
