@@ -9,6 +9,10 @@ Mods:
   > Craft Blackstone, using Charcoal surrounded by cobblestone or smelting cobblestone in a Blast Furnace.
 + LiLaC by opekope2
   > Library mod used by OptiGUI
++ fix GPU memory leak by someaddon
+  > Fixes some bugs which leak resources within GPU memory
++ Memory Settings by someaddon
+  > Small utility for checking Minecraft's memory settings at launch and warning the user when there is an issue.
 
 Updates:
 - Balm
