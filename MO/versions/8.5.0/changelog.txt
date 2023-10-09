@@ -1,11 +1,11 @@
-[Cleanup n' QOL The Improvements!]
+[Cleanup n' QOL Improvements!]
 
-1.20.2 will still take awhile, so though I'd do a cleanup for now while getting things ready for 1.20.3.
+1.20.2 will still take a while, so thought I'd do a cleanup for now while getting things ready for 1.20.3.
 This release improves overall stability and performance.
 
 Mods:
 + Custom Panorama Screen showing Mindful SMP Spawn (Mindful SMP Resource Pack)
-+ [Bounced by KrLite
++ Bounced by KrLite
   > Bounces Your Minecraft Title as It Loads.
 + Improved Fire Overlay by RuffleSteels
   > Allows all entities that have stepped in a soul fire to render with a blue fire overlay
