@@ -1,0 +1,44 @@
+[Cleanup n' QOL The Improvements!]
+
+1.20.2 will still take awhile, so though I'd do a cleanup for now while getting things ready for 1.20.3.
+This release improves overall stability and performance.
+
+Mods:
++ Custom Panorama Screen showing Mindful SMP Spawn (Mindful SMP Resource Pack)
++ [Bounced by KrLite
+  > Bounces Your Minecraft Title as It Loads.
++ Improved Fire Overlay by RuffleSteels
+  > Allows all entities that have stepped in a soul fire to render with a blue fire overlay
+
+Updates:
+- Better Statistics Screen
+- Continuity
+- Dynamic FPS
+- Fabric API
+- ImmediatelyFast
+- MacOS Input Fixes
+- MaLiLib
+- ModernFix
+- Modpack Update Checker
+- MoreMcmeta
+- Portal GUI
+- Raknetify
+- RepeaterSound
+- Searchables
+- Simple Voice Chat
+- ThreadTweak
+- World Host
+- YetAnotherConfigLib
+
+Removed:
+- Screenshot Viewer (Could be quite laggy)
+- AntiGhost (No longer needed)
+- Options Profiles (Was not being used)
+
+Fixes:
+- Fix sounds stopping when setting volume to zero
+- Fixed rendering issues with Highlighter
+- Fixed debug HUD text layering issues
+- Journeymap
+- Markdown links now show inside in-game changelogs as well as the info screen.
+- Turned off Sound Physics for Voice Chat by default (You can reenable it yourself in the config)
