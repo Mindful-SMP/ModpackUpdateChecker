@@ -4,31 +4,31 @@
   "versions": [
     {
       "id": "8.1.1",
-      "releasedAt": 999999999999999
+      "releasedAt": 1692860400000
     },
     {
       "id": "8.2",
-      "releasedAt": 999999999999999
+      "releasedAt": 1693897200000
     },
     {
       "id": "8.2.1",
-      "releasedAt": 999999999999999
+      "releasedAt": 1693983600000
     },
     {
       "id": "8.2.2",
-      "releasedAt": 999999999999999
+      "releasedAt": 1694242800000
     },
     {
       "id": "8.3.0",
-      "releasedAt": 999999999999999
+      "releasedAt": 1694847600000
     },
     {
       "id": "8.3.1",
-      "releasedAt": 999999999999999
+      "releasedAt": 1695711600000
     },
     {
       "id": "8.5.0",
-      "releasedAt": 999999999999999
+      "releasedAt": 1696834800000
     },
     {
       "id": "8.5.1",
