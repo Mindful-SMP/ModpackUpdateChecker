@@ -36,8 +36,7 @@
       "promotions": {
         "downloads": {
           "modrinth": "https://modrinth.com/modpack/mindful-optimized/",
-          "curseforge": "https://www.curseforge.com/minecraft/modpacks/mindful-optimized/",
-          "generic": "https://github.com/Mindful-Optimized/mindful-optimized/"
+          "curseforge": "https://www.curseforge.com/minecraft/modpacks/mindful-optimized/"
         }
       }
     }
