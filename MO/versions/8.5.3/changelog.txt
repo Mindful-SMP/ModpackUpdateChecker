@@ -1,0 +1,51 @@
+[Emotes n Speed Update]
+
+Tweaks, Speed & Emotes
+Fabric Loader is now 0.14.24
+EMOTES!! `B` key
+
+The first time your launch it will be significantly slower. Because it needs to create a cache which contains all the assets minecraft normally loads. This will also happen every time you change a mod/resourcepack if that configuration does not have an existing cache. But after that you should see much faster game loading.
+
+Bug Fixes:
+- Fixed crashes during random entity property in ETF
+- Fixed muffled and play sound button tooltips being just bad
+- Fixed Game sometimes crashing when joining a server
+- Slightly improve memory usage for blocks with only one state 
+- Fixed Incendium Resourcepack
+- Fixed Dynamic Lights
+- Fixed crash when resources reload
+
+Added:
++ [Remember My Txt](https://modrinth.com/mod/remember-my-txt) by [DuncanRuns](https://modrinth.com/user/DuncanRuns)
++ [Keep That Music](https://modrinth.com/mod/keepthatmusic) by [DarkAndBlue](https://modrinth.com/user/DarkAndBlue)
++ [Emotecraft](https://modrinth.com/mod/emotecraft) by [KosmX](https://modrinth.com/user/KosmX)
++ [Online Emotes](https://modrinth.com/mod/online-emotes) by [dima_dencep](https://modrinth.com/user/dima_dencep)
++ [Log Cleaner](https://modrinth.com/mod/log-cleaner) by [altrisi](https://modrinth.com/user/altrisi)
++ Readded [DashLoader](https://modrinth.com/mod/dashloader) by [alphaqu](https://modrinth.com/user/alphaqu)
++ `emotes` folder in main directory for custom emotes.
+
+Updated:
++ Better Statistics Screen
++ Cherished Worlds
++ Chime
++ CraftPresence
++ Eating Animation
++ Entity Texture Features
++ Extreme sound muffler
++ Fabric API
++ Fabric Language Kotlin
++ FancyMenu
++ FerriteCore
++ Konkrete
++ MapFrontiers
++ MidnightLib
++ ModernFix
++ MoreMcmeta
++ OptiGUI
++ Puzzles Lib
++ Server Pinger Fixer
++ Simple Voice Chat
++ Updated resclone config
+
+Removed
+- Temporarily Removed Elytra Trims as it was not working properly
