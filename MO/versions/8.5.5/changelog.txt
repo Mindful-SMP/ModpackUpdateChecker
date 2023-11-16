@@ -1,0 +1,36 @@
+[Hotfix Update]
+
+Bug Fixes:
+- Drop sounds when the sound engine cannot handle rather than glitching out
+- Fixed injection failure when absolute path to tmpdir contains non-ascii characters
+
+Added:
++ [Paginated Advancements](https://modrinth.com/mod/paginatedadvancements) by [DaFuqs](https://modrinth.com/user/DaFuqs)
+> Completely overhauls the advancement screen by adding a load of features
++ [Clickable advancements](https://www.curseforge.com/minecraft/mc-mods/clickable-advancements) by [someaddon](https://www.curseforge.com/members/100114338-someaddon?username=someaddon)
+> Lets you click on the advancements in chat to open the Advancement window
++ [Better Recipe Book](https://modrinth.com/mod/brb) by [marshmallow](https://modrinth.com/user/marshmallow)
+> Adds brewing, smithing, and QOL changes to the vanilla recipe book!
++ [Carpet-Fixes](https://modrinth.com/mod/carpet-fixes) by [fxmorin](https://modrinth.com/user/fxmorin)
+> [Carpet](https://modrinth.com/mod/carpet) extension mod which attempts to fix as many vanilla minecraft bugs as possible!
++ [Shield Fixes](https://modrinth.com/mod/shield-fixes) by [Walksyy](https://modrinth.com/user/Walksyy)
+> Fixes Shield sounds
++ [Sort](https://modrinth.com/mod/sort) & [Sort Extension](https://modrinth.com/mod/sort-extension) by [16underscore](https://modrinth.com/user/16underscore)
+> Pressing `R` you can sort items in Containers
++ [Tips](https://modrinth.com/mod/tips) by [Darkhax](https://modrinth.com/user/Darkhax)
+
+Updated:
++ Better Statistics Screen
++ Chat Heads
++ Extreme sound muffler
++ ImmediatelyFast
++ Journeymap
++ ModernFix
++ MoreMcmeta
++ Puzzles Lib
++ Raise Sound Limit Simplified
++ World Host
+
+Removed:
+- Elytra Trims (for real this time)
+- Better Advancements (Replaced by Paginated Advancements)
