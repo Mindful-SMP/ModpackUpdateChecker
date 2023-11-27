@@ -56,13 +56,23 @@
         }
       }
     },
-        {
+            {
       "id": "8.5.6",
       "releasedAt": 1700722200000,
       "promotions": {
         "downloads": {
           "modrinth": "https://modrinth.com/modpack/mindful-optimized/version/NUXKThWh",
           "curseforge": "https://curseforge.com/minecraft/modpacks/mindful-optimized/files/4893122"
+        }
+      }
+    },
+        {
+      "id": "8.5.7",
+      "releasedAt": 1701116820000,
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://modrinth.com/modpack/mindful-optimized/version/8.5.7",
+          "curseforge": "https://curseforge.com/minecraft/modpacks/mindful-optimized/files/"
         }
       }
     }

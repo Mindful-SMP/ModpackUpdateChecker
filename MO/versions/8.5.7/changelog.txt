@@ -1,0 +1,32 @@
+[Crashy Fixy Update Electric Boogaloo]
+
+Bug Fixes:
+- Fixed Crash with litematic
+- Fixed a critical issue where the config couldn't be changed (Clean F3)
+- Fixed crash when closing certain screens (MapFrontiers)
+
+Changes:
+- Updated default `config/yosbr/config/litematica.json` to enable rendering and GUI keybind
+- Main Menu loading screen fade is now `0.5` from `0`
+- Updated `config/craftpresence.json`
+
+Added:
++ [Blocky Bubbles](https://modrinth.com/mod/blocky-bubbles) by [axialeaa](https://modrinth.com/user/axialeaa)
+> Adds the fast bubble columns feature from Bedrock Edition (For Fast Graphics)
++ [Remove Reloading Screen](https://modrinth.com/mod/rrls) by [dima_dencep](https://modrinth.com/user/dima_dencep)
+> Makes resource packs load in the background, allowing you to do other things while waiting!
+
+Updated:
++ Better Recipe Book
++ CraftPresence
++ Fabric API
++ Fabric Language Kotlin
++ Journeymap
++ MapFrontiers
++ MoreMcmeta
+
+Removed:
+- ThreadTweak (Causes many crashes)
+- Clean F3 (Crash, will add back on fix)
+- ModMenu Command (Crashes, doesn't work)
+- Fadeless
