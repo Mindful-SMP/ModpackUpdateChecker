@@ -1,0 +1,58 @@
+[Updates of all updates]
+
+Fixes:
+- Fixed `inventoryprofilesnext` config not being inside `\config\yosbr\config` making it overwrite user settings
+
+Changes:
+- Updated Fabric Loader to `0.15.0`
+- Enabled "Inventory Item Optimization" (ImmediatelyFast)
+- Added keybindings for [Armor Statues Companion](https://modrinth.com/mod/armor-statues-companion) by [Asch](https://modrinth.com/user/Asch)
+> Open Main GUI (default: `,`)
+> Open Pose Preset GUI (default: not bound)
+> Highlight Armor Stand (default: not bound)
+- Added custom `Lock Item Frame` & `Unlock Item Frame` Buttons to [Armor Statues Companion](https://modrinth.com/mod/armor-statues-companion) GUI
+- Changed litematica `toolItemEnabled` default to `false`
+- Removed "Java Edition" from title screen logo (Java Edition is the OG)
+- Added `key_key.elytratime.show:key.keyboard.unknown` & `key_key.elytratime.config:key.keyboard.unknown` to `config\yosbr\options.txt`
+- Updated `\config\modpack-update-checker\config.json`
+- Added 800 emojis
+- Minecraft suggestions now show 20 from 12
+- Added new Emotes
+- Updated Emote Icons
+- Emotes will no longer play in third person by default
+- You can now walk while playing Emotes
+
+Added:
+- [Armor Statues Companion](https://modrinth.com/mod/armor-statues-companion) by [Asch](https://modrinth.com/user/Asch)
+> Adds a GUI similar to the datapack book, with the same functionalities. Works with [Armor Statues Datapack](https://www.curseforge.com/minecraft/customization/armor-statues-datapack)
+- [oωo (owo-lib)](https://modrinth.com/mod/owo-lib) by [glisco](https://modrinth.com/user/glisco)
+> Needed lib for [Armor Statues Companion](https://modrinth.com/mod/armor-statues-companion)
+- [Elytra Time](https://modrinth.com/mod/elytratime) by [MediumDifficulty](https://modrinth.com/user/MediumDifficulty)
+> Calculates and displays the flying time remaining for an Elytra as part of its tooltip
+- [Show Me Your Skin!](https://modrinth.com/mod/show-me-your-skin) by [enjarai](https://modrinth.com/user/enjarai)
+> Extensive customization of armor rendering.
+- [Skin Swapper](https://modrinth.com/mod/skinswapper) by [cobrasrock](https://modrinth.com/user/cobrasrock)
+> A mod that lets you change your skin in game using a GUI.
+- [Better Suggestions](https://modrinth.com/mod/better-suggestions) by [shurik204](https://modrinth.com/user/shurik204)
+> Makes Minecraft suggestions more useful.
+- [Enchantment Descriptions](https://modrinth.com/mod/enchantment-descriptions) by [Darkhax](https://modrinth.com/user/Darkhax)
+- **[emotes-replaymod-compat](https://github.com/KosmX/emotes-replaymod-compat)** (Modrinth Only)
+> Experimental compatibility layer between Emotecraft and ReplayMod.
+
+Updated:
+- Iris
+- Fabric Language Kotlin
+- Simple Voice Chat
+- StackDeobfuscator
+- ModernFix
+- Modpack Update Checker
+- MoreMcmeta
+- Puzzles Lib
+- World preview
+- Emoji Type
+- Chat Heads
+- World Host
+
+Removed:
+- Temporarily removed Better Recipe Book
+- Temporarily removed Raknetify
