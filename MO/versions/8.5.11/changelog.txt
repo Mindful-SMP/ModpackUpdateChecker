@@ -5,9 +5,9 @@
 - Fix master volume resetting to 100% when refocusing the window
 - Launch times should be faster (Let me know if you see any differences or not)
 
-§l§aChanges:
+§l§aChanges§r:
 - Updated Fabric Loader to 0.15.2
-- §lAll mods that are included in the modpack now have a modpack badge in mod menu, It should make it easier to tell what mods have been added manually
+- §lAll mods that are included in the modpack now have a modpack badge in mod menu, It should make it easier to tell what mods have been added manually§r
 - Completely replaced Incendium & Stardust Labs Biome Name Fix Resourcepacks with [Sparkles](https://github.com/Stardust-Labs-MC/Sparkles-Resourcepack)
 - Added a Change Skin Online Button under skin settings that takes you to Minecraft.net Change Skin
 - Removed custom icon files as they're not in use
@@ -15,13 +15,13 @@
 - Updated `\config\resclone`
 - Added Ghasts to real life 
 
-§l§bAdded:
+§l§bAdded§r:
 - [Simple Discord Link](https://modrinth.com/mod/Sh0YauEf) by HypherionSA
 > Now lets you @ users and channels from Minecraft chat
 - Structory Datapack
 - [Sparkles: Stardust Labs Resourcepack](https://modrinth.com/resourcepack/sparkles)
 
-§l§6Updated:
+§l§6Updated§r:
 - Cherished Worlds
 - Dynamic FPS
 - Craftable Suspicious Blocks
@@ -46,7 +46,7 @@
 - Incendium (Optional Datapack)
 - Nullscape (Optional Datapack)
 
-§l§4Removed:
+§l§4Removed§r:
 - Skin Swapper
 - Incendium Resourcepack
 - Stardust Labs Biome Name Fix Resourcepack
