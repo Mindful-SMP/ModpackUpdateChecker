@@ -1,7 +1,7 @@
 [§dQuick Updates & Changes§r]
 
 
-§l§cFixes:
+§l§cFixes§r:
 - Fix master volume resetting to 100% when refocusing the window
 - Launch times should be faster (Let me know if you see any differences or not)
 
