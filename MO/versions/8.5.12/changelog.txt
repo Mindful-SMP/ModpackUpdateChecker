@@ -1,5 +1,5 @@
 [§dQuick Updates & Changes§r]
-(⚠️ Emergency Hotfix: Fixed Incendium mob textures showing on all mobs)
+(§l§4⚠ Emergency Hotfix: Fixed Incendium mob textures showing on all mobs§r)
 
 
 §l§cFixes§r:
