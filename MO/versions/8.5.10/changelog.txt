@@ -1,4 +1,4 @@
-[Fixy Fix 🐛] (1.20.4 Soon-ish)
+[Fixy Fix 🐛]
 
 Fixes:
 - Fixed `inventoryprofilesnext` config not being inside `\config\yosbr\config` making it overwrite user settings
