@@ -38,9 +38,9 @@
 > Fixes many client-side bugs, also has some QoL improvements and tweaks. 
 - [EmuNO](https://modrinth.com/mod/emuno) by [ryanccn](https://modrinth.com/user/ryanccn)
 > Disables various macOS-specific behaviors.
-- [Fix Keyboard on Linux](https://modrinth.com/mod/fix-keyboard-on-linux) by [ishland](https://modrinth.com/user/ishland)
+- [Fix Keyboard on Linux](https://modrinth.com/mod/fix-keyboard-on-linux) by [ishland](https://modrinth.com/user/ishland) (Modrinth Only)
 > Fixes some annoying bugs related to keyboard on Linux.
-- [More Vanilla Paintings](https://modrinth.com/mod/mvp) by [Owehttamy](https://modrinth.com/user/Owehttamy)
+- [More Vanilla Paintings](https://modrinth.com/mod/mvp) by [Owehttamy](https://modrinth.com/user/Owehttamy) (Modrinth Only)
 > Enables unused paintings that have existed in the game's files but haven't been officially implemented.
 - [Loading Window](https://modrinth.com/mod/zOlabQQH) by Igrium (Modrinth Only)
 > Shows an AWT loading screen until the game finishes initializing. (does not work on macOS)
