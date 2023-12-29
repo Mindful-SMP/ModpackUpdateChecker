@@ -125,6 +125,16 @@
           "curseforge": "https://curseforge.com/minecraft/modpacks/mindful-optimized/files/"
         }
       }
+    },
+    {
+      "id": "8.5.15",
+      "releasedAt": 1703885700000,
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://modrinth.com/modpack/mindful-optimized/version/8.5.15",
+          "curseforge": "https://curseforge.com/minecraft/modpacks/mindful-optimized/files/"
+        }
+      }
     }
   ]
 }

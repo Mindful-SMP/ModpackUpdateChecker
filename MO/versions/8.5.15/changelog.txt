@@ -1,0 +1,68 @@
+§d[Fixes, Updates n Cleanup 🐷]§r
+
+§l§cFixes§r:
+- Crash with MacOS Input Fixes
+- Fishing line not attached to fishing rod in third person while crouching
+- Certain entity animations stop after they've existed in world for too long
+- The experience bar disappears when too many levels are given to the player
+- Starting to drag item stacks over other compatible stacks makes the latter invisible until appearance change
+- Bubbles appear at the feet of drowning mobs
+- Punching with a cast fishing rod in the off-hand detaches fishing line from rod
+- Player flickers/turns invisible when flying at high speeds
+- Tab suggestion box has missing padding on right side
+- Armor Stand renders itself and armor dark if its head is in a solid block
+- Players can be kicked for spamming in a singleplayer world with cheats disabled
+- minecraft.used:minecraft.POTTABLE_PLANT doesn't increase when placing plants into flower pots
+- Mobs going out of fenced areas/suffocate in blocks when loading chunks
+- Snow Golem's snowballs damage wolves instead of pushing them
+- Skeletons and illusioners aren't looking up / down at their target while strafing
+- Teleporting to another dimension loses some client states
+- Armor stands destroyed by explosions/lava/fire don't produce particles
+- Items dropped by entities that are killed by lightning instantly disappear
+- Block of Raw Copper uses stone sounds instead of copper sounds
+
+§l§aChanges§r:
+- Updated and Enforced Fabric Loader `0.15.3`
+- Enabled inventory item optimization in ImmediatelyFast
+- Added `citresewn.json` into `/config` folder
+- Changed `"broken_paths"` to `false` in `citresewn.json`
+- Added `fabrishot.properties` into `\config\yosbr\config\fabrishot.properties`
+- Fabrishot screenshots (`F9`) will now end in `_4K` instead of `_huge`
+- Added `debugify.json` into `/config` folder 
+- Enabled the following fixes in Debugify:
+> [MC-4490](https://bugs.mojang.com/browse/MC-4490),[MC-199467](https://bugs.mojang.com/browse/MC-199467),[MC-79545](https://bugs.mojang.com/browse/MC-79545),[MC-80859](https://bugs.mojang.com/browse/MC-80859),[MC-93384](https://bugs.mojang.com/browse/MC-93384),[MC-116379](https://bugs.mojang.com/browse/MC-116379),[MC-111516](https://bugs.mojang.com/browse/MC-111516),[MC-122627](https://bugs.mojang.com/browse/MC-122627),[MC-197260](https://bugs.mojang.com/browse/MC-197260),[MC-14923](https://bugs.mojang.com/browse/MC-14923),[MC-231743](https://bugs.mojang.com/browse/MC-231743),[MC-2025](https://bugs.mojang.com/browse/MC-2025),[MC-72151](https://bugs.mojang.com/browse/MC-72151),[MC-121706](https://bugs.mojang.com/browse/MC-121706),[MC-124177](https://bugs.mojang.com/browse/MC-124177),[MC-132878](https://bugs.mojang.com/browse/MC-132878),[MC-206922](https://bugs.mojang.com/browse/MC-206922),[MC-223153](https://bugs.mojang.com/browse/MC-223153).
+- Removed old unneeded configs and mods
+
+§l§bAdded§r:
+- [Blanket](https://modrinth.com/mod/blanket) by [KosmX](https://modrinth.com/user/KosmX)
+> Fixes many client-side bugs, also has some QoL improvements and tweaks. 
+- [EmuNO](https://modrinth.com/mod/emuno) by [ryanccn](https://modrinth.com/user/ryanccn)
+> Disables various macOS-specific behaviors.
+- [Fix Keyboard on Linux](https://modrinth.com/mod/fix-keyboard-on-linux) by [ishland](https://modrinth.com/user/ishland)
+> Fixes some annoying bugs related to keyboard on Linux.
+- [More Vanilla Paintings](https://modrinth.com/mod/mvp) by [Owehttamy](https://modrinth.com/user/Owehttamy)
+> Enables unused paintings that have existed in the game's files but haven't been officially implemented.
+- [Loading Window](https://modrinth.com/mod/zOlabQQH) by Igrium (Modrinth Only)
+> Shows an AWT loading screen until the game finishes initializing. (does not work on macOS)
+
+§l§6Updated§r:
+- Better Advancements
+- Better Statistics Screen
+- Bookshelf
+- Cake Chomps
+- Cloth Config v11
+- CraftPresence
+- Dynamic FPS
+- EnchantmentDescriptions
+- Fabric API
+- Fabric Language Kotlin
+- ModernFix
+- Sound Physics Remastered
+- Status
+- World preview
+
+§l§4Removed§r:
+- Carpet Fixes
+- MacOS Input Fixes
+- CompleteConfig
+- ToolTip Fix ([Debugify](https://modrinth.com/mod/QwxR6Gcd) does the same thing)
