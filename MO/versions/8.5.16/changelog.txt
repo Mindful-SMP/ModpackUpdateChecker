@@ -1,0 +1,69 @@
+§d[8.5.16 for 1.20.1]§r
+
+§l§aChanges§r:
+- Modpack version now displays in the world selection screen
+- Replaced WorldEdit with Axiom (Modrinth Only)
+- Added warnings when entering a world saved with a different modpack version
+- Main Menu Modpack version text now redirects to changelogs and shows in pause screen
+- Restructured ETF config
+- Moved ETF Guide into ETF Skin Settings
+- Moved Fancymenu texture files into `\MO` folder
+- Moved `sound_physics_remastered` config folder to `\config\yosbr\config\sound_physics_remastered`
+- API, and Lib type mods are now hidden in Mod Menu
+- Updated Default Options to Hard Mode
+- Cleaned up Main Menu Credits
+- Client Brand will show as mindful-optimized on multiplayer servers
+- Added Screenshots button into Pause menu
+
+§l§cFixes§r:
+- Fixed a crash in the skin tool (ETF)
+- Fixed 3d skin layers mod & etf skin feature (ETF)
+- Added a check to see if the title screen is open before showing toasts. (MUC)
+- Stability fixes the in ETF animation method now allows 2 or more parameters, instead of the previous 3 or more (OptiFine parity) (ETF)
+- Clean F3 works again! [#15](https://github.com/tyrannus00/CleanF3/issues/15#issuecomment-1873441056) (Thank you [tyrannus00](https://modrinth.com/user/tyrannus00) ❤️)
+- Adjusted the masked villager skins so that their mouths in Fresh Animations match the mask
+- Changelogs now only load when needed to prevent really long startup times.
+- Added "Fresh-Animations-compatible!" splash
+
+§l§bAdded§r:
+- Re-added [Clean F3](https://modrinth.com/mod/clean-f3) by [tyrannus00](https://modrinth.com/user/tyrannus00) 🥳
+> Removes useless information from the debug screen.
+- Re-added [ThreadTweak](https://modrinth.com/mod/threadtweak) by [getchoo](https://modrinth.com/user/getchoo)
+> Improve and tweak Minecraft CPU scheduling
+- [Rebrand](https://modrinth.com/mod/rebrand) by [kaylendog](https://modrinth.com/user/kaylendog)
+> Customize your client brand sent to multiplayer servers.
+- [Map Tooltip](https://modrinth.com/mod/map-tooltip) by [VendoAU](https://modrinth.com/user/VendoAU)
+> Hover your mouse over a map to see what it looks like
+- [BadOptimizations](https://modrinth.com/mod/badoptimizations) by [thosea](https://modrinth.com/user/thosea)
+> Optimization mod that focuses on things other than rendering
+- [Hat List](https://modrinth.com/mod/hatlist) by [Potatoboy9999](https://modrinth.com/user/Potatoboy9999)
+> Shows the hat layer by default on the tab list
+- [Axiom](https://modrinth.com/mod/axiom) by [Moulberry](https://modrinth.com/user/Moulberry) **(Modrinth Only)**
+> Client-side building utility mod | [Wiki](https://axiomdocs.moulberry.com/)
+
+§l§6Updated§r:
+- 3d-Skin-Layers
+- Chat Heads
+- Dynamic FPS
+- Entity Model Features
+- Entity Texture Features
+- EnchantmentDescriptions
+- Fix Keyboard on Linux
+- FancyMenu
+- Konkrete
+- Modpack Update Checker
+- ModernFix
+- MoreMcmeta
+- Memory Leak Fix
+- MidnightLib
+- NotEnoughAnimations
+- Puzzles Lib
+- Raise Sound Limit Simplified
+- Fabric API
+- Renewable Blackstone
+- Extra Villagers Resource Pack
+
+§l§4Removed§r:
+- Gpu memory leak fix mod
+- World preview mod
+- WorldEdit Mod **(Modrinth Only)**
