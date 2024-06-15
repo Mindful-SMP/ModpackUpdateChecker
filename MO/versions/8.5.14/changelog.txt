@@ -1,7 +1,0 @@
-[§l§4⚠ Emergency Hotfix: Electric Boogaloo ⚠️§r]
-
-§l§cFixes§r:
-- Crash
-
-§l§4Removed§r:
-- NBT Autocomplete

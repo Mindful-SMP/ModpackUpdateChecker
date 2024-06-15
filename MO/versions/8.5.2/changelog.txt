@@ -1,9 +1,0 @@
-[Quick Fix]
-
-This release fixes a crash with F3 + F4
-
-Bug Fixes:
-- Downgraded FancyMenu & Konkrete to fix crash
-
-Updated:
-+ Better Statistics Screen

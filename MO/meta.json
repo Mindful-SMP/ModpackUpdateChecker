@@ -2,159 +2,27 @@
   "schemaVersion": 1,
   "hotfixesFormat": null,
   "versions": [
-    {
-      "id": "8.5.0",
-      "releasedAt": 1696834800000
-    },
-    {
-      "id": "8.5.1",
-      "releasedAt": 1697697000000,
-      "promotions": {
-        "downloads": {
-          "modrinth": "https://modrinth.com/modpack/mindful-optimized/",
-          "curseforge": "https://www.curseforge.com/minecraft/modpacks/mindful-optimized/"
-        }
+      {
+          "id": "9.0",
+          "releasedAt": 171798606000,
+          "updateType": "minor",
+          "promotions": {
+              "downloads": {
+                  "modrinth": "https://modrinth.com/modpack/mindful-optimized/version/9.0/",
+                  "generic": "https://github.com/Mindful-Optimized/mindful-optimized/"
+              }
+          }
+      },
+      {
+          "id": "9.1",
+          "releasedAt": 1718488800000,
+          "updateType": "minor",
+          "promotions": {
+              "downloads": {
+                  "modrinth": "https://modrinth.com/modpack/mindful-optimized/version/9.1/",
+                  "generic": "https://github.com/Mindful-Optimized/mindful-optimized/"
+              }
+          }
       }
-    },
-    {
-      "id": "8.5.2",
-      "releasedAt": 1697697000000,
-      "promotions": {
-        "downloads": {
-          "modrinth": "https://modrinth.com/modpack/mindful-optimized/",
-          "curseforge": "https://www.curseforge.com/minecraft/modpacks/mindful-optimized/"
-        }
-      }
-    },
-    {
-      "id": "8.5.3",
-      "releasedAt": 1697697000000,
-      "promotions": {
-        "downloads": {
-          "modrinth": "https://modrinth.com/modpack/mindful-optimized/",
-          "curseforge": "https://www.curseforge.com/minecraft/modpacks/mindful-optimized/"
-        }
-      }
-    },
-    {
-      "id": "8.5.4",
-      "releasedAt": 1699112040000,
-      "promotions": {
-        "downloads": {
-          "modrinth": "https://modrinth.com/modpack/mindful-optimized/",
-          "curseforge": "https://www.curseforge.com/minecraft/modpacks/mindful-optimized/"
-        }
-      }
-    },
-    {
-      "id": "8.5.5",
-      "releasedAt": 1700172000000,
-      "promotions": {
-        "downloads": {
-          "modrinth": "https://modrinth.com/modpack/mindful-optimized/",
-          "curseforge": "https://www.curseforge.com/minecraft/modpacks/mindful-optimized/"
-        }
-      }
-    },
-    {
-      "id": "8.5.6",
-      "releasedAt": 1700722200000,
-      "promotions": {
-        "downloads": {
-          "modrinth": "https://modrinth.com/modpack/mindful-optimized/version/NUXKThWh",
-          "curseforge": "https://curseforge.com/minecraft/modpacks/mindful-optimized/files/4893122"
-        }
-      }
-    },
-    {
-      "id": "8.5.7",
-      "releasedAt": 1700722200000,
-      "promotions": {
-        "downloads": {
-          "modrinth": "https://modrinth.com/modpack/mindful-optimized/version/8.5.7",
-          "curseforge": "https://curseforge.com/minecraft/modpacks/mindful-optimized/files/4893122"
-        }
-      }
-    },
-    {
-      "id": "8.5.8",
-      "releasedAt": 1701658800000,
-      "promotions": {
-        "downloads": {
-          "modrinth": "https://modrinth.com/modpack/mindful-optimized/version/8.5.7",
-          "curseforge": "https://curseforge.com/minecraft/modpacks/mindful-optimized/files/4893122"
-        }
-      }
-    },
-    {
-      "id": "8.5.9",
-      "releasedAt": 1701974400000,
-      "promotions": {
-        "downloads": {
-          "modrinth": "https://modrinth.com/modpack/mindful-optimized/version/8.5.9",
-          "curseforge": "https://curseforge.com/minecraft/modpacks/mindful-optimized/files/4893122"
-        }
-      }
-    },
-    {
-      "id": "8.5.10",
-      "releasedAt": 1702074600000,
-      "promotions": {
-        "downloads": {
-          "modrinth": "https://modrinth.com/modpack/mindful-optimized/version/8.5.9",
-          "curseforge": "https://curseforge.com/minecraft/modpacks/mindful-optimized/files/4893122"
-        }
-      }
-    },
-    {
-      "id": "8.5.12",
-      "releasedAt": 1702813140000,
-      "promotions": {
-        "downloads": {
-          "modrinth": "https://modrinth.com/modpack/mindful-optimized/version/8.5.12",
-          "curseforge": "https://curseforge.com/minecraft/modpacks/mindful-optimized/files/"
-        }
-      }
-    },
-    {
-      "id": "8.5.14",
-      "releasedAt": 1702917480000,
-      "promotions": {
-        "downloads": {
-          "modrinth": "https://modrinth.com/modpack/mindful-optimized/version/8.5.14",
-          "curseforge": "https://curseforge.com/minecraft/modpacks/mindful-optimized/files/"
-        }
-      }
-    },
-    {
-      "id": "8.5.15",
-      "releasedAt": 1703885700000,
-      "promotions": {
-        "downloads": {
-          "modrinth": "https://modrinth.com/modpack/mindful-optimized/version/8.5.15",
-          "curseforge": "https://curseforge.com/minecraft/modpacks/mindful-optimized/files/"
-        }
-      }
-    },
-    {
-      "id": "8.5.16",
-      "releasedAt": 1705252800000,
-      "promotions": {
-        "downloads": {
-          "modrinth": "https://modrinth.com/modpack/mindful-optimized/version/8.5.15",
-          "curseforge": "https://curseforge.com/minecraft/modpacks/mindful-optimized/files/"
-        }
-      }
-    },
-    {
-      "id": "8.5.17",
-      "releasedAt": 1706432400000,
-      "promotions": {
-        "downloads": {
-          "modrinth": "https://modrinth.com/modpack/mindful-optimized/version/8.5.17",
-          "curseforge": "https://curseforge.com/minecraft/modpacks/mindful-optimized/files/5063016/"
-        }
-      }
-    }
   ]
 }

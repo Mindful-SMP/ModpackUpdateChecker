@@ -1,7 +1,0 @@
-[Update]
-
-Removed:
-- cupboard by Someaddon
-- clickadv mod by Love, Cheese and small house plants
-- Gpu memory leak fix mod by Someaddon
-- Memorysettings Mod by Someaddons
