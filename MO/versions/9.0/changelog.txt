@@ -1,74 +1,61 @@
-§d[8.5.17 for 1.20.1]§r
-# A beta version of the pack with Nvidium will now be included in Modrinth version
+# [Updates & Fixes]
 
-§l§aChanges§r:
-- Fabric Loader is now 0.15.6
-- Changelogs screen has been revamped
-- Modpack Info screen has been merged into the changelogs screen
-- World Host friends list moved into its own file so that it doesn't accidentally get shared
-- Enabled end gateway culling in MoreCulling
-- Changed itemFrameLODRange from `20` to `128` in MoreCulling
-- Changed itemFrame3FaceCullingRange from `3.4641016` to `4.0` in MoreCulling
-- Updated Sparkles Resourcepack
-- Added Incendium's biome name fix back to the resource pack
-- Added a unique texture to Incendium's Withered Scientists
-- Improved application of mob textures through translations
-- Updated `pack.mcmeta` with the correct pack formats and added some details to the description
-- Force-enabled Indium in `/config/fabric_loader_dependencies.json`
+## Changes
+- **FancyMenu now asks if you want to enable or disable the actions addon on first launch**, this is done to make the features of this addon OPT-IN.
+- In-Game Account Switcher has been rewritten so you may have to readd your accounts.
+- Disable Sound Physics thunder sound evaluation by default.
+- Disable Sound Physics goat horn sound evaluation by default.
+- Added reverb distance config option for Sound Physics.
+- New TweakerMore tweaks `keepMessageHistoryOnReconfiguration`, `particleLimit`, `windowSizeApply`, `windowSizeWidth`, `windowSizeHeight`, `windowSizePinned`, `spectatorTeleportCommand`, `spectatorTeleportCommandPrefix`, `fovOverrideEnabled` and `fovOverrideValue`.
+- World Host (Open to Friends) now uses a more efficient networking system.
+- Added Option to block anyone who isn't a friend from joining Open to Friends and direct connect IPs.
+- `Customize Armor Rendering` and `ETF Skin Settings` buttons will now only load when in a game.
+- Updated Skin Customization menu button names with added tooltips.
+- Added :neigh:
+ 
+## Fixes
+- Fixed being able to toggle all overlays and hotkeys in FancyMenu.
+- Fixed potential crash with other mods rendering player heads, instead falling back to 2d.
+- Fixed audio positioning when eating or drinking with Sound Physics.
+- Fixed level cache being updated when Sound Physics is disabled.
+- Fixed Sound Physics reverb attenuation.
+- Fixed refresh button in online friends list.
+- Fixed direct IP joining not working with non-friends.
+- Fixed the username box not being focused by default when adding a friend.
+- Fixed freeze when joining online friend directly from singleplayer.
+- Fixed a crash when trying to modify chat suggestions.
+- Fixed "ArrayIndexOutOfBoundsException" sometimes showing up in logs.
+- 3d->2d player head/skin layer culling now uses camera position, instead of the player position. Fixing issues with freecam/replaymod.
 
-§l§cFixes§r:
-- Fixed a crash
-- Fixed items with colored quads all showing the same color
-- Custom animation variables should now be correctly addressable between different parts (OptiFine parity)
-- Allowed emf animations to declare the same variable multiple times to update it multiple times within the same frame (OptiFine parity)
-- Fixed the nose button getting stuck in a loop in the skin settings
-- Fixed a crash when removing skin features in the skin tool
-- Fixed player emissives breaking
-- Fixed mod incompatibility with ModernFix's dynamic resources
-- The backup screen should no longer show on minor updates
-- Fixed crash when pressing Ctrl+V with empty clipboard
-- Fixed a major bug where joining some players was impossible due to infinite loading
-- Fixed the friend selection list play button being a black square
-- Fixed a bug where a friend's icon wouldn't show up in the "went online" toast 
-- Fixed players not being able to be heard when reconnecting (Simple Voice Chat)
-
-§l§bAdded§r:
-- Nvidium (beta version only)
-> Nvidium is a replacement rendering backend for sodium that uses nvidia only opengl extensions to increase fps by a significant amount. (Disables itself when iris is actively using shaders)
-> > If I feel like its stable enough I'll add it into the release version.
-> This mod uses uncommon technology (mesh shaders). This may result in minecraft terminating unexpectedly. Report any bugs [here](https://github.com/MCRcortex/nvidium/issues)
-(Nether Fog dose not work atm, might have issues with portals after some time)
-
-- [Reply Mod](https://modrinth.com/mod/replymod) by [AdelinaM17n](https://modrinth.com/user/AdelinaM17n)
-> Adds a Reply Command that sends message to the last person who messaged you
-Re-added [Raknetify](https://modrinth.com/mod/raknetify) by [ishland](https://modrinth.com/user/ishland)
-> Allows using RakNet as Minecraft networking backend.
-- [Toggle Subtitles](https://modrinth.com/mod/toggle-subtitles) by [Crendgrim](https://modrinth.com/user/Crendgrim)
-> Adds a key bind to toggle subtitles (Default `I` key)
-- Added [Sparkles ADDON: Alpha Islands Resource Pack](https://modrinth.com/resourcepack/sparkles-addon-alpha-islands)
-> This resourcepack changes the texture of every* block and mobs in Terralith's really rare Alpha Islands and Alpha Islands Winter biomes to an Alpha/Developer counterpart or look.
-
-§l§6Updated§r:
-- Axiom
-- CraftPresence
-- Chat Heads
-- Entity Model Features
-- Entity Texture Features
-- Iris
-- Puzzles Lib
-- Sodium
-- Sodium Extra
-- Simple Voice Chat
-- Reese's Sodium Options
-- Modpack Update Checker
-- More Culling
+## Added
 - Resourcify
-- World Host
+ > Allows you to browse and update all resource packs, data packs and shaders on Modrinth and CurseForge right from in Minecraft.
+- [FancyMenu System Interactions Addon](https://modrinth.com/mod/fancymenu-system-interactions-addon)
+ > Addon for FancyMenu that allows modpack creators to create even more complex menu designs.
 
-§l§4Removed§r:
-- Removed Starlight - no longer needed
-- Removed MidnightLib - is now embedded in Puzzle
-- BadOptimizations
-- RepeaterSound
-- Fix Keyboard on Linux
-- EmuNO
+## Updated
+- FancyMenu | `3.1.4` -> `3.2.3`
+- YetAnotherConfigLib | `3.4.3` -> `3.4.4`
+- 3d-Skin-Layers | `1.6.4` -> `1.6.5`
+- Balm | `7.2.2` -> `7.3.4`
+- Better Suggestions | `1.2.2` -> `1.2.2.1`
+- Bookshelf | `20.1.10` -> `20.2.12`
+- Chat Heads | `0.12.0` -> `0.12.2`
+- EnchantmentDescriptions | `17.0.14` -> `17.0.16`
+- EntityCulling | `1.6.2` -> `1.6.5`
+- Fabric API | `0.92.1` -> `0.92.2`
+- Fabric Language Kotlin | `1.10.20+kotlin.1.9.24` -> `1.11.0+kotlin.2.0.0`
+- ImmediatelyFast | `1.2.14` -> `1.2.17`
+- In-Game Account Switcher | `8.0.2` -> `9.0.0-beta.5`
+- ModernFix | `5.17.0` -> `5.18.0`
+- MoreBeeInfo | `1.1.2` -> `1.2`
+- Polytone | `1.17.13` -> `1.20.3`
+- Puzzles Lib | `8.1.19` -> `8.1.20`
+- Simple Voice Chat | `2.5.14` -> `2.5.15`
+- Sound Physics Remastered | `1.3.1` -> `1.4.2`
+- TweakerMore | `3.17.0` -> `3.18.0`
+- World Host | `0.4.11` -> `0.4.12`
+- Zoomify | `2.13.4` -> `2.13.5`
+
+### Known Issues
+- Worlds with old datapacks may fail to load, if so copy datapacks from the `/datapacks` folder into the worlds datapack folder and it should load.
