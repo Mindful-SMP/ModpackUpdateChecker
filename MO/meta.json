@@ -14,12 +14,23 @@
           }
       },
       {
-          "id": "9.1",
-          "releasedAt": 1718488800000,
+        "id": "9.1",
+        "releasedAt": 1718488800000,
+        "updateType": "minor",
+        "promotions": {
+            "downloads": {
+                "modrinth": "https://modrinth.com/modpack/mindful-optimized/version/9.1/",
+                "generic": "https://github.com/Mindful-Optimized/mindful-optimized/"
+            }
+        }
+    },
+      {
+          "id": "9.1.1",
+          "releasedAt": 1719091200000,
           "updateType": "minor",
           "promotions": {
               "downloads": {
-                  "modrinth": "https://modrinth.com/modpack/mindful-optimized/version/9.1/",
+                  "modrinth": "https://modrinth.com/modpack/mindful-optimized/version/9.1.1/",
                   "generic": "https://github.com/Mindful-Optimized/mindful-optimized/"
               }
           }
