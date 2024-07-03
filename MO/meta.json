@@ -34,6 +34,17 @@
                   "generic": "https://github.com/Mindful-Optimized/mindful-optimized/"
               }
           }
-      }
+      },
+      {
+        "id": "9.2.0",
+        "releasedAt": 1719979200000,
+        "updateType": "minor",
+        "promotions": {
+            "downloads": {
+                "modrinth": "https://modrinth.com/modpack/mindful-optimized/version/9.2.0/",
+                "generic": "https://github.com/Mindful-Optimized/mindful-optimized/"
+            }
+        }
+    }
   ]
 }
