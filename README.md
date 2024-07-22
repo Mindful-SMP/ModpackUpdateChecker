@@ -1,2 +1,2 @@
 # ModpackUpdateChecker
-Used with https://www.curseforge.com/minecraft/mc-mods/modpack-update-checker to check for updates.
+Used with [ModpackUpdateChecker](https://modrinth.com/mod/modpack-update-checker) to check for [Mindful SMP Pack](https://modrinth.com/modpack/mindful-smp-pack) updates.
