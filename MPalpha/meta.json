@@ -3,12 +3,12 @@
     "hotfixesFormat": null,
     "versions": [
         {
-            "id": "1.0.0-alpha-1",
+            "id": "1.0.0-alpha.1",
             "releasedAt": 1718912785000,
             "updateType": "major",
             "promotions": {
                 "downloads": {
-                    "modrinth": "https://modrinth.com/modpack/mindful-smp-pack/version/1.0.0-alpha-1/",
+                    "modrinth": "https://modrinth.com/modpack/mindful-smp-pack/version/1.0.0-alpha.1/",
                     "generic": "https://github.com/Mindful-SMP/mindful-smp-pack/"
                 }
             }
@@ -19,7 +19,7 @@
             "updateType": "major",
             "promotions": {
                 "downloads": {
-                    "modrinth": "https://modrinth.com/modpack/mindful-smp-pack/version/1.0.0-alpha-1/",
+                    "modrinth": "https://modrinth.com/modpack/mindful-smp-pack/version/1.0.0/",
                     "generic": "https://github.com/Mindful-SMP/mindful-smp-pack/"
                 }
             }
