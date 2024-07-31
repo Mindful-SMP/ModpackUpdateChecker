@@ -1,0 +1,33 @@
+# §b[1.0.0-beta.1 for 1.21]§r
+
+### §l§aChanges§r:
+- Fixed Mapfrontiers HUD showing after beta 1 update.
+- Fixed not being able to open old worlds showing as "Incompatible" (Are you sure screen will now show)
+- Fixed replay buttton in the multiplayer screen opening account switcher.
+- Fixed Carpet mod crashing game when saving world.
+
+### §l§bAdded§r:
+- Craftable Invisible Item Frames Datapack (Optional)
+
+### §l§dUpdated§r:
+- Chat Heads | `0.12.7` -> `0.12.9`
+- Controlling | `18.0.2` -> `18.0.3`
+- Carpet | `1.4.147+v240613` -> `1.4.147+v240623`
+- Fabric API | `0.100.7` -> `0.100.8`
+- Forge Config API Port | `21.0.6` -> `21.0.7`
+- Polytone | `2.2.7` -> `2.2.9`
+- Remove Reloading Screen | `5.0.5` -> `5.0.6`
+- Symbol Chat | `1.2.6` -> `1.2.7`
+- Litematica | `0.18.999-sakura.24` -> `0.19.0`
+- Syncmatica | `0.3.12-sakura.4` -> `0.3.12-sakura.5`
+- Item Scroller | `0.23.999-sakura.4` -> `0.23.999-sakura.7`
+- MiniHUD | `0.31.999-sakura.9` -> `0.31.999-sakura.16`
+
+### §l§4Removed§r:
+- Servux
+  - Temporarily removed CIT Resewn, Overflowing Bars, Drip Sounds. Effect Descriptions, LambDynamicLights, Remember My Txt, Silk Touch Dirt Path, Renewable Blackstone, Craftable Suspicious Blocks.
+
+Known Issues
+- Game can't launch in fullscreen.
+- Resource packs reload when first opening and exiting out even without any changes made.
+- Worlds with old datapacks may fail to load, if so copy datapacks from the `/datapacks` folder into the worlds datapack folder and it should load.
