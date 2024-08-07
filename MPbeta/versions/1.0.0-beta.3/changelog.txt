@@ -1,0 +1,44 @@
+# §b[1.0.0-beta.3 for 1.21]§r
+
+### §l§aChanges§r:
+- Disabled ImmediatelyFast experimental screen batching, as caused some texture glitches with resource packs.
+- Fix possible crash when max health/max hunger is changing.
+- Fixed issue where non-stackable damageable items will not be moved or dropped properly.
+- Applied to work around to fix effect icons.
+- Manually updated Trimmable Tools.
+- Fixed Hat button in Quick Menu.
+- Added `/hat` command.
+- Temporarily incompatible: CIT Resewn, Overflowing Bars, Drip Sounds. Effect Descriptions, LambDynamicLights, Remember My Txt, Silk Touch Dirt Path, Renewable Blackstone, Craftable Suspicious Blocks.
+
+### §l§bAdded§r:
+- Keep Head Data Datapack
+  > Datapack continuation of Keep Head Names for Minecraft 1.21, While [MC-174496](https://bugs.mojang.com/browse/MC-174496) has been fixed in 1.21, `lore`, `item_name`\* and `custom_data` components are not kept when placing and mining player heads.
+- Hats On Datapack
+  > Lets you wear any item as a hat.
+- [Hat Layer](https://modrinth.com/mod/hat-layer)
+  > Ensures the hat layer of skins always appears in the tab list.
+
+### §l§dUpdated§r:
+- AppleSkin | `3.0.2` -> `3.0.5`
+- Controlling | `18.0.3` -> `18.0.4`
+- Chat Heads | `0.12.9` -> `0.12.10`
+- Fabric Language Kotlin | `1.11.0+kotlin.2.0.0` -> `1.12.0+kotlin.2.0.10`
+- libIPN | `6.0.1` -> `rc1-6.0.2`
+- Modpack Update Checker | `0.13.0` -> `0.14.0`
+- Polytone | `2.2.9` -> `2.2.13`
+- Scribble | `1.2.0` -> `1.2.1`
+- Searchables | `1.0.1` -> `1.0.5`
+- Trimmable Tools | `1.0.6` -> `1.0.6-1.21`
+- TCD Commons API | `3.12.2` -> `3.12.3`
+- Inventory Profiles Next | `2.0.3` -> `2.0.4`
+- MiniHUD | `sakura.16` -> `sakura.20`
+- Syncmatica | `0.3.12-sakura.5` -> `0.3.12-sakura.6`
+
+### §l§4Removed§r:
+- litematicaWand
+- Item Scroller
+
+Known Issues
+- Game can't launch in fullscreen.
+- Resource packs reload when first opening and exiting out even without any changes made.
+- Worlds with old datapacks may fail to load, if so copy datapacks from the `/datapacks` folder into the worlds datapack folder and it should load.
