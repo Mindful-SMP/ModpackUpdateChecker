@@ -1,0 +1,43 @@
+# §b[1.0.0-beta.5 for 1.21]§r
+
+### §l§aChanges§r:
+- Fixed crash when saving waypoint with no group selected.
+- Fixed crashing in multiplayer after playing in singleplayer.
+- Fixed crash when saving worlds.
+- Fixed buttons in the Modpack Customization menu.
+- Fixed crash from opening journeymap from the Modpack Customization menu and exiting.
+- Manually updated Carpet Mod to work with Lithium update.
+- Upped max render distance to 128 with bobby.
+- Shulker Box tooltips now show full preview.
+- Added Keybind Fix for a temporary fix with the `G` key being used by QuickMenu and Journeymap.
+- Added `/litematica` ,`/minihud`, `/tweakeroo`, `/tweakermore`, `/resources`, `/modpackcustomization` and `/guides` commands
+
+### §l§bAdded§r:
+- [Too Many Binds](https://modrinth.com/mod/too-many-binds)
+    > Adds a keybind search box, that allows you to use almost every other keybind by just searching for its name. (_Use arrow keys and enter to navigate_)
+- [Better Clouds](https://modrinth.com/mod/5srFLIaK) (**Off by default, enable in Modpack Customization menu**)
+    > Beautiful clouds in touch with the vanilla style.
+
+### §l§dUpdated§r:
+- Better Statistics Screen | `3.12.6` -> `3.13`
+- Carpet Mod | `1.4.147+v240623` -> `1.4.147+v240813`
+- Cloth Config | `15.0.128` -> `15.0.130`
+- ImmediatelyFast | `1.2.19` -> `1.2.20`
+- Journeymap | `6.0.0-beta.19` -> `6.0.0-beta.20`
+- Lithium | `0.12.7` -> `0.13.0`
+- MapFrontiers | `2.6.0beta2` -> `2.6.0`
+- ModernFix | `5.19.0` -> `5.19.1`
+- Modpack Update Checker | `0.15.0` -> `0.15.2`
+- Polytone | `2.3.3` -> `2.3.7`
+- Show Me Your Skin! | `1.11.2` -> `1.11.3`
+- MiniHUD | `0.31.999-sakura.21` -> `0.31.999-sakura.23`
+
+### §l§4Removed§r:
+- Sit!
+
+- Temporarily incompatible: [CIT Resewn](https://github.com/SHsuperCM/CITResewn/issues/397), Overflowing Bars, Drip Sounds. Effect Descriptions, LambDynamicLights.
+
+Known Issues
+- Game can't launch in fullscreen.
+- Resource packs reload when first opening and exiting out even without any changes made.
+- Worlds with old datapacks may fail to load, if so copy datapacks from the `/datapacks` folder into the worlds datapack folder and it should load.
