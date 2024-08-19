@@ -56,6 +56,17 @@
                     "generic": "https://github.com/Mindful-SMP/mindful-smp-pack/"
                 }
             }
+        },
+        {
+            "id": "1.0.0-beta.6",
+            "releasedAt": 1724050800000,
+            "updateType": "minor",
+            "promotions": {
+                "downloads": {
+                    "modrinth": "https://modrinth.com/modpack/mindful-smp-pack/version/1.0.0-beta.6/",
+                    "generic": "https://github.com/Mindful-SMP/mindful-smp-pack/"
+                }
+            }
         }
     ]
 }
