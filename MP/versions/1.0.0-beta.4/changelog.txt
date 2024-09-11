@@ -1,0 +1,52 @@
+# §b[1.0.0-beta.4 for 1.21]§r
+
+### §l§aChanges§r:
+- Added link in Guides & Skin Customization for tool that can add animated eyes for you.
+- You can now shift-click on the Statistics button to quickly open the vanilla statistics screen. This now serves as a shortcut that allows you to access the vanilla stats screen in less clicks.
+- The "Stat announcement system" feature in Better Statistics Screen is now disabled by default, rather than being enabled by default. You can always enable or disable it at any time.
+- Changelog screen now has multiple markdown renderers.
+- New Waypoint Manager is now on by default.
+- Updated `/waypointmanager` to point to the new default Waypoint Manager.
+- Fixed Cache flushing on slower hard drives causing a lag spike.
+- Fixed Compatibility issue with ImmediatelyFast and Journeymap.
+
+### §l§bAdded§r:
+- Axolotl Buckets
+  > Show the color and age of axolotls when in buckets.
+- Better Recipe Book
+  > Adds brewing, smithing, and QOL changes to the vanilla recipe book
+- Mjoschta
+  > Addon to Modpack Update Checker that makes the markdown renderer better.
+- Unilib
+  > Library mod for CraftPresence.
+
+### §l§dUpdated§r:
+- Better Statistics Screen | `3.12.4` -> `3.12.6`
+- Carpet Mod | `1.4.147+v240623` -> `1.4.147+v240809`
+- Collective | `7.80` -> `7.81`
+- CraftPresence | `2.4.3` -> `2.5.0`
+- Elytra Trims | `3.4.3` -> `3.4.4`
+- Forge Config API Port | `21.0.7` -> `21.0.8`
+- Hide Experimental Warning | `1.2.0` -> `1.2.1`
+- ImmediatelyFast | `1.2.18` -> `1.2.19`
+- Journeymap | `6.0.0-beta.18` -> `6.0.0-beta.19`
+- Litematica | `0.19.0` -> `0.19.1`
+- MiniHUD | `sakura.20` -> `sakura.21`
+- Mindful SMP Dark Mode | `1.0.0` -> `1.0.1`
+- MidnightLib | `1.5.7` -> `1.5.8`
+- Modpack Update Checker | `0.14.0` -> `0.15.0`
+- Polytone | `2.2.13` -> `2.3.3`
+- Remove Reloading Screen | `5.0.6` -> `5.0.7`
+- Scribble | `1.2.1` -> `1.2.2`
+- Simple Voice Chat | `2.5.19` -> `2.5.20`
+- Sit! | `1.2.0.1` -> `1.1.9`
+- Sound Physics Remastered | `1.4.5` -> `1.4.6`
+- Status | `1.21-1.0.6` -> `1.21.1-1.0.6`
+- WorldEdit | `7.3.5+6880-8ba3d89` -> `7.3.6`
+
+- Temporarily incompatible: CIT Resewn, Overflowing Bars, Drip Sounds. Effect Descriptions, LambDynamicLights, Remember My Txt, Silk Touch Dirt Path, Renewable Blackstone, Craftable Suspicious Blocks.
+
+Known Issues
+- Game can't launch in fullscreen.
+- Resource packs reload when first opening and exiting out even without any changes made.
+- Worlds with old datapacks may fail to load, if so copy datapacks from the `/datapacks` folder into the worlds datapack folder and it should load.

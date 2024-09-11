@@ -1,0 +1,105 @@
+# §b[1.0.0-beta.1 for 1.21]§r
+
+### §l§aChanges§r:
+- **Modpack has been renamed to Mindful SMP Pack**.
+- **Pack versioning is reset to 1.0.0 with rebrand**.
+    - New name! New versioning!
+    - `x.y.z` for <MC version>.
+    - `x` - Major version number, new Major Minecraft version or new Season.
+    - `y` - Minor version number, represents new features or critical bug fixes.
+    - `z` - Tiny version number, represents minor updates and bug fixes.
+
+- Updated and enforced Fabric Loader 0.16.0.
+- **Added a custom Darkmode Resource Pack**. (*Enabled by default*)
+- Added a **Modpack Customization** button next to mods. (*This menu is work in progress*).
+- Moved datapack type mods into `/datapacks` folder.
+- **Journeymap config have been reset for v6.0. Map data _shouldn't_ be affected.**
+
+- **Just Expressions Resource Pack**
+  - Adds Animated Eyes and Facial expressions. (To animate the eyes go to the [Fresh Moves wiki](https://github.com/IthanMendoza/Fresh-Moves/wiki/Eyebrows).)
+  - If you had Blinking setup for [ETF] Entity Texture Features you may see some weird effects and will need to redo the eyes.
+
+- **New trimming and crafting recipes for the Elytra**.
+  - [Put any trim on your elytra just like any other armor](https://cdn.modrinth.com/data/XpzGz7KD/images/6e8e22627a57ea58dec99c451c7e7595faf0c5a0.png).
+  - [Combine your elytra with a banner](https://cdn.modrinth.com/data/XpzGz7KD/images/0327378aa65018c5f4e761c09c14fa94bb7e1d8d.png).
+  - [Dye your elytra however you want in a crafting table](https://cdn.modrinth.com/data/XpzGz7KD/images/511e985762a518992f2bc140b34e9f5c104ade74.png).
+  - [Craft your elytra with a glow ink sac to make it glow in the dark.](https://cdn.modrinth.com/data/XpzGz7KD/images/849d54736e4519df78678bf00a2077a528e866ad.png)
+
+- **Pets can now be Independent**.
+  > Pets will follow+teleport to you unless you tell them not to do so by sneak-interacting (Shift + Right Click) or whistling (Can be found in Quickmenu).
+  > Whistling make all nearby pets follow you or be dismissed again.
+  > Pets can freely roam within their home. "Home" is where they were last set independent.
+
+- Guides & Info button is now called Resources.
+  - Resources button is located in the Pause Menu next to mods.
+
+- Moved System Info button into Resources Menu.
+- Moved "Upload Audioplayer Sound" from the Quick Menu into Guides.
+- Added a Guide for the CalcMod (Chat Calculator) under Pause Menu > Resources > Guides.
+- Added a Guide for the Just Expressions Resource Pack under Pause Menu > Resources > Guides.
+- Edited `book_edit_screen_layout` menu to make Text Utilities and Scribble work together.
+- Temporarily replaced LambDynamicLights with RyoamicLights.
+- Replaced Yeetus Experimentus with Hide Experimental Warning.
+- Replaced Better Advancements with AdvancementsFullscreen.
+- Replaced World Host with e4mc.
+- Replaced Dynamic Trim with Armor Trim Item Fix.
+- Replaced Portal GUI with Allow Portal GUIs.
+- Replaced Emoji Type with Symbol Chat.
+- Replaced Low Fire with ScreenFX.
+- Manually updated MaLiLib, MiniHUD, Syncmatica, Litematica, Tweakeroo, [Borderless Mining](https://github.com/comp500/BorderlessMining/pull/112) (Still disabled by default.)
+
+### §l§bAdded§r:
+- [AdvancementsSearch](https://modrinth.com/mod/advancementssearch)
+  > Adds a search feature to the Advancements window.
+- [AdvancementsFullscreen](https://modrinth.com/mod/7BgsROit)
+  > Expands the advancements window to full screen.
+- [Armor Trim Item Fix](https://modrinth.com/mod/armor-trim-item-fix)
+  > Item trim textures that change depending on the trim applied.
+- [Armor Statues Datapack](https://www.curseforge.com/minecraft/customization/armor-statues-datapack)
+  > Datapack that allows you to modify the settings and pose of armor stands.
+- [Better Mount HUD](https://modrinth.com/mod/better-mount-hud)
+  > Improves the ingame HUD while riding a mount.
+- [CalcMod](https://modrinth.com/mod/calcmod).
+  > A calculator in your chat with shortcuts designed for Minecraft.
+- [Capes](https://modrinth.com/mod/89Wsn8GD).
+  > Lets you use capes from Optifine, LabyMod, and the MinecraftCapes Mod.
+- [DarkTitleBar](https://modrinth.com/mod/wAP4f8Jf)
+  > Adds dark-mode support to the Minecraft window's title bar on windows.
+- [Entity Sound Features (ESF)](https://modrinth.com/mod/esf)
+  > Allows for entity sound variation using OptiFine format property rules.
+- [Elytra Trims](https://modrinth.com/mod/XpzGz7KD)
+  > Adds support for elytra trims, patterns and dyes.
+- [e4mc](https://modrinth.com/mod/e4mc).
+  > Open a LAN server to anyone, anywhere, anytime.
+- [Just Expressions Resource Pack](https://modrinth.com/mod/just-expressions).
+  > Brings Fresh Animations Eye Animations but for the player.
+- [FixBookGUI](https://modrinth.com/mod/myKgAJq6)
+  > Moves the book gui in the middle of the screen (Fixes [MC-61489](https://bugs.mojang.com/browse/MC-61489))
+- [Independent Pets](https://modrinth.com/mod/indypets)
+  > Free your pets from the curse of having to sit, let 'em roam!
+- [Isometric Renders](https://modrinth.com/mod/isometric-renders).
+  > Allows you to create high-resolution isometric screenshots of game objects.
+- [Litematica Wand](https://modrinth.com/mod/litematicawand)
+  > Adds a dummy tool item for Litematica!
+- [FabricBetterGrass](https://modrinth.com/mod/fabricbettergrass)
+  > Adds OptiFine's Fancy and Fast better grass implemented.
+- [Reset Keys Confirmation Screen](https://modrinth.com/mod/reset-keys-confirmation-screen)
+  > You will be prompted with a confirmation screen before resetting all keybindings. Yeah, that's it. Nothing more.
+- [ScreenFX](https://modrinth.com/mod/M8z7jPlu)
+  > [Lets you change overlays and screen effects](https://wsrv.nl/?url=https%3A%2F%2Fmedia1.giphy.com%2Fmedia%2Fv1.Y2lkPTc5MGI3NjExdnc1enR4Y3F6cG92dGZiZ2NsaXZlMHpwdmI3YzJ2ejN2NmVvZ3B5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw%2Ffyv4GnDj3x67cH1rcu%2Fgiphy.gif&n=-1) (resource pack compatible).
+- [Symbol Chat](https://modrinth.com/mod/NKvLVQMc)
+  > Adds a Emoji/Symbol menu as well as writing in different unicode fonts.
+- [Scribble](https://modrinth.com/mod/yXAvIk0x)
+  > Expertly edit your books with rich formatting options, page utilities and more!
+- [WITS (What Is This Structure?)](https://modrinth.com/mod/wits)
+  > Use the command `\wits` to see the names of the structures at your current location!
+
+### §l§4Removed§r:
+- Server Resource Pack Checker (Not being used), Rebrand (not useful), LiLaC (discontinued), Blanket (Outdated), Kappa (discontinued), Keep Command History (In vanilla-ish), Raise Sound Limit Simplified (Stuttery sound), Sound Controller (Buggy), What Are They Up To (As nice as it is to have I don't see an update anytime soon), CoroUtil (Not needed), Chime (Not used), Game Menu Remove GFARB (Not needed), Axolotl Buckets, DistractingTrims (Outdated), Balm, Default Options, Blocky Bubbles, Constant Music, Shut Up GL Error, MemoryLeakFix (discontinued?), Low Fire, Hat List, Dynamic Trim (Replaced), Emotecraft (Update may take a while), Emoji Type (Replaced), Container Searcher (Did not fit the pack), Mindful Darkness (Oudated), Forge Config Screens, Improved Flame Overlays, BlockTuner (No update anytime soon), Emotecraft compatibility layer, Leave My Bars Alone, Online Emotes, Tips, ThreadTweak, Highlighter.
+
+  - Temporarily removed CIT Resewn, Overflowing Bars, Drip Sounds. Effect Descriptions, LambDynamicLights, Remember My Txt.
+
+Known Issues
+- Game can't launch in fullscreen.
+- Resource packs reload when first opening and exiting out even without any changes made.
+- Worlds with old datapacks may fail to load, if so copy datapacks from the `/datapacks` folder into the worlds datapack folder and it should load.

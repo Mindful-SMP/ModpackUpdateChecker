@@ -1,0 +1,21 @@
+### Changed
+- Updated Fabric Loader to 0.16.5
+- Added Flashback.
+    > Record your gameplay, view the recordings and export cinematic shots.
+- Added Sodium Leaf Culling.
+    > Smart leaf culling algorithm for Sodium.
+- Trimmable Tools has been rewrote meaning custom tool textures are compatible.
+    > Added a unique trim pattern for every armor trim. Each trim pattern from Bolt to Wild has its own set of textures for each tool!
+    > Mobs from Ominous Trial Spawners that wield swords can have them trimmed with Bolt or Flow.
+- Added Dungeons and Taverns Datapack for Singleplayer worlds. (_Optional_)
+- Added [Sodium Leaf Culling](https://modrinth.com/mod/sodiumleafculling).
+- Updated Mindful SMP Recipes Datapack.
+- Fixed missing Default Options.
+- Updated 3d-Skin-Layers, Allow Portal GUIs, Armor Statues, Balm, Better Clouds, Better Statistics Screen, Elytra Trims, Entity Model Features, Entity Texture Features, EntityCulling, Fabric Language Kotlin, FabricBetterGrass, Firorize, ImmediatelyFast, Journeymap, MaLiLib, MapFrontiers, MidnightLib, Mod Menu, NotEnoughAnimations, oωo, Puzzle, Puzzles Lib, Simple Voice Chat, UniLib, Trimmable Tools.
+    > Skipped Sodium, Sodium Extra, Sodium Shadowy Path Blocks, Reese's Sodium Options, Iris, More Culling, Bobby and Polytone updates as they are currently in beta and can break with other mods.
+
+- Temporarily incompatible: [CIT Resewn](https://github.com/SHsuperCM/CITResewn/issues/397), Overflowing Bars, Drip Sounds. Effect Descriptions, LambDynamicLights.
+
+### Known Issues
+- Game can't launch in fullscreen.
+- Worlds with old datapacks may fail to load, if so copy datapacks from the `datapacks` folder into the worlds datapack folder and it should load.

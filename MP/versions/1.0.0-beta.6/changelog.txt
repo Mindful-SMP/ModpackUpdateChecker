@@ -1,0 +1,36 @@
+# §b[1.0.0-beta.6 for 1.21]§r
+
+### §l§aChanges§r:
+- Updated Fabric Loader to 0.16.2
+- Readded Improved Flame Overlays under its new name [Firorize](https://modrinth.com/mod/firorize/version/1.0).
+- Pet Status messages for single pet interactions will now show above the hotbar instead of inside the chat.
+- Pet Status messages now also say if the pet is sitting.
+- Fixed config overwrite issue with RyoamicLights.
+- Removed screenfx.
+- Enabled multi dimension fog slider by default in Render tab under video settings.
+- Converted Hats On into a datapack.
+- Temporarily removed Mjoschta since there's no way to set a new default markdown yet.
+
+### §l§dUpdated§r:
+- Better Statistics Screen | `3.13.0` -> `3.13.1`
+- Chat Heads | `0.12.10` -> `0.12.13`
+- Cherished Worlds | `10.0.1` -> `10.0.2`
+- Collective | `7.81` -> `7.84`
+- Fabric API | `0.100.8` -> `0.102.0`
+- FabricBetterGrass | `1.0.21` -> `1.0.23`
+- Fabrishot | `1.14.0` -> `1.14.1`
+- Fix Book Gui Mod | `1.6.2` -> `1.7.0`
+- IndyPets - Independent Pets | `1.3.5` -> `1.4.0`
+- Indium | `1.0.34` -> `1.0.35`
+- Polytone | `2.3.7` -> `2.3.8`
+- Puzzles Lib | `21.0.19` -> `21.0.22`
+- RyoamicLights | `0.2.9` -> `0.2.11`
+- Sodium Shadowy Path Blocks | `3.3.1` -> `3.4.0`
+- Litematica | `0.19.1` -> `0.19.2`
+
+- Temporarily incompatible: [CIT Resewn](https://github.com/SHsuperCM/CITResewn/issues/397), Overflowing Bars, Drip Sounds. Effect Descriptions, LambDynamicLights.
+
+Known Issues
+- Game can't launch in fullscreen.
+- Resource packs reload when first opening and exiting out even without any changes made.
+- Worlds with old datapacks may fail to load, if so copy datapacks from the `/datapacks` folder into the worlds datapack folder and it should load.

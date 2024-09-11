@@ -69,23 +69,23 @@
             }
         },
         {
-            "id": "1.0.0-beta.7",
-            "releasedAt": 1725778800000,
-            "updateType": "minor",
-            "promotions": {
-                "downloads": {
-                    "modrinth": "https://modrinth.com/modpack/mindful-smp-pack/version/1.0.0-beta.7/",
-                    "generic": "https://github.com/Mindful-SMP/mindful-smp-pack/"
-                }
-            }
-        },
-        {
             "id": "1.0.0-beta.8",
             "releasedAt": 1725814080000,
             "updateType": "minor",
             "promotions": {
                 "downloads": {
                     "modrinth": "https://modrinth.com/modpack/mindful-smp-pack/version/1.0.0-beta.8/",
+                    "generic": "https://github.com/Mindful-SMP/mindful-smp-pack/"
+                }
+            }
+        },
+        {
+            "id": "1.0.0",
+            "releasedAt": 1725814080000,
+            "updateType": "major",
+            "promotions": {
+                "downloads": {
+                    "modrinth": "https://modrinth.com/modpack/mindful-smp-pack/version/1.0.0/",
                     "generic": "https://github.com/Mindful-SMP/mindful-smp-pack/"
                 }
             }
