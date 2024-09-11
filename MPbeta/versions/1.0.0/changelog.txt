@@ -1,0 +1,18 @@
+## [Java version 21 is now required!](https://adoptium.net/temurin/releases/?version=21&package=jre&arch=x64#version-filter).
+
+### Changed
+- Readded [CIT Resewn](https://modrinth.com/mod/cit-resewn/version/1.2.0+1.21).
+- Added [ElytraSwimFix](https://modrinth.com/mod/elytraswimfix), [Servux](https://github.com/sakura-ryoko/servux/releases/tag/1.21-0.3.8-sakura.1), [Enchantment Lore](https://modrinth.com/mod/enchantment-lore) and [Particle Core](https://modrinth.com/mod/particle-core).
+- Updated Independent Pets, Journeymap, Puzzles Lib, Replay Mod, Litematica, MiniHUD, Tweakeroo.
+    - Skipped Sodium, Sodium Extra, Sodium Shadowy Path Blocks, Reese's Sodium Options, Iris, More Culling, Bobby and Polytone updates as they are currently in beta and can break with other mods.
+- Removed Chat Binds, DarkTitleBar.
+- Replaced Global Packs with [Datapack Installer](https://modrinth.com/mod/dp-installer).
+- You can now open enchanted books like written books to read their description and lore.
+- Fixed Polygons drawing outside the minimap.
+- Fixed missing Bundle Scroll mod.
+
+    - Temporarily incompatible: Overflowing Bars, Drip Sounds, LambDynamicLights.
+
+### Known Issues
+- Pause menu layout broken in Replay Mod replay viewer.
+- Worlds with old datapacks may fail to load, if so copy datapacks from the `datapacks` folder into the worlds datapack folder and it should load.
